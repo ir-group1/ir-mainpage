@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
 
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="style.css">
 
 </head>
 <body>
@@ -114,7 +114,7 @@
 
     </div>
 
-    <h1 class="credit"> created by <a href="#">mr. web designer</a> | all rights reserved. </h1>
+    <h1 class="credit"> created by <a href="#">IR softwere</a> | all rights reserved. </h1>
 
 </div>
 
@@ -129,7 +129,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 
 <!-- custom js file link  -->
-<script src="js/script.js"></script>
+<script src="script.js"></script>
 
 </body>
 </html>
